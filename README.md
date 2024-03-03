@@ -7,3 +7,6 @@ ho, and ls too.
 
 day 9
 ffs, victory
+
+day 25
+practice
