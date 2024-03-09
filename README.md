@@ -10,3 +10,6 @@ ffs, victory
 
 day 25
 practice
+
+day 31
+first shot
