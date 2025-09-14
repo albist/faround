@@ -13,3 +13,6 @@ practice
 
 day 31
 first shot
+
+day 585
+still day 1
